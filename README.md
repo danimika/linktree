@@ -37,7 +37,7 @@ O LinkTree é um agregador de links para usar como cartão de visitas online.
 
 - [Acesse o projeto finalizado, online](https://danimika.github.io/linktree/)
 
-- [Assistir aulas](https://lp.rocketseat.com.br/devlinks/inscricao?utm_source=github&utm_medium=descricao&utm_campaign=capture-devlinks&utm_term=organic&utm_content=descricao-github-mayk-brito)
+- [Assistir aulas](https://rocketseat.com.br/discover?referral=daniela-leme-da-cunha-1570334794)
 
 ## 🔖 Layout
 
